@@ -10,6 +10,16 @@ I am Emad Uddin Emad.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+- 🔭 I’m currently working on [Hotel Booking System](https://thriving-pothos-1a3c36.netlify.app/)
+
+- 🌱 I’m currently learning **Redux and NextJs.**
+
+- 💬 Ask me about **ReactJs and Javascript**
+
+- 📫 How to reach me **emaduddin678@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emad uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emad uddin" height="30" width="40" /></a>
