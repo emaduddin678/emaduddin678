@@ -1,8 +1,8 @@
-### Hi there 👋
-I am Emad Uddin Emad. 
-
 <h1 align="center">Hi 👋, I'm Emad Uddin Emad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<hr />
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="emaduddin678" />
+<hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaduddin678&label=Profile%20views&color=0e75b6&style=flat" alt="emaduddin678" /> </p>
 
