@@ -35,3 +35,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emaduddin678&show_icons=true&locale=en" alt="emaduddin678" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emaduddin678&" alt="emaduddin678" /></p>
+
+
+
+# :fire: Summary of profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
+</p>
+<p align="center">
+  <img width="375" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
+  <img width="375" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
+</p>
+
