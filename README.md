@@ -41,10 +41,10 @@
 # :fire: Summary of profile
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emaduddin678&theme=dark">
 </p>
 <p align="center">
-  <img width="375" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
-  <img width="375" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
+  <img width="375" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaduddin678&layout=compact&theme=dark"/>
+  <img width="375" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaduddin678&theme=dark">
 </p>
 
