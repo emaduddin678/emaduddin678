@@ -19,6 +19,8 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaduddin678&label=Profile%20views&color=0e75b6&style=flat" alt="emaduddin678" /> </p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emaduddin678&theme=algolia" alt="emaduddin678" /></a> </p>
 
 
@@ -30,8 +32,12 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 
 - 📫 How to reach me **emaduddin678@gmail.com**
 
+- 🌱 I am open to work in Fiverr: https://www.fiverr.com/s/lpz9KQ
+
 <div> <a href="https://github.com/emaduddin678" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:emaduddin678@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.fiverr.com/crystalwork_2?up_rollout=true"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
+
 </div>
 
 
