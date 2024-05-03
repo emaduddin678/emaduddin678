@@ -23,7 +23,7 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emaduddin678&theme=algolia" alt="emaduddin678" /></a> </p>
 
 
-- 🔭 I’m currently working on [Hotel Booking System](https://thriving-pothos-1a3c36.netlify.app/)
+- 🔭 I’m currently working on [(EasyBuyShop)](https://easybuyshop.netlify.app)
 
 - 🌱 I’m currently learning **Redux and NextJs.**
 
@@ -31,7 +31,7 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 
 - 📫 How to reach me **emaduddin678@gmail.com**
 
-- 🌱 I am open to work in Fiverr: https://www.fiverr.com/s/lpz9KQ
+- 🌱 I am open to work on Fiverr: https://www.fiverr.com/s/lpz9KQ
 
 <div> <a href="https://github.com/emaduddin678" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:emaduddin678@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
