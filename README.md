@@ -19,14 +19,11 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaduddin678&label=Profile%20views&color=0e75b6&style=flat" alt="emaduddin678" /> </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emaduddin678&theme=algolia" alt="emaduddin678" /></a> </p>
-
-
 - 🔭 I’m currently working on [(EasyBuyShop)](https://easybuyshop.netlify.app)
 
 - 🌱 I’m currently learning **Redux and NextJs.**
-
+- 🔭 Redux documentation to see a quick overview: [Redux-toolkit-doc](https://github.com/emaduddin678/redux-toolkit-documentation)
+  
 - 💬 Ask me about **ReactJs and Javascript**
 
 - 📫 How to reach me **emaduddin678@gmail.com**
@@ -96,6 +93,8 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=emaduddin678&theme=react-dark"/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emaduddin678&theme=algolia" alt="emaduddin678" /></a> </p>
 
 <h3>Let's code and innovate together! 🚀 #CodePassionate #ReactJS #MERNStack 🌟</h3>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
