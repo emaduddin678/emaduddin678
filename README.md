@@ -20,6 +20,11 @@ I'm a passionate Front-end based Full-stack developer with a strong foundation i
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaduddin678&label=Profile%20views&color=0e75b6&style=flat" alt="emaduddin678" /> </p>
 
 
+- 🔭 I’m currently working on Backend in Node.js, Express.js, MongoDB => [(Server Chat Application)](https://github.com/emaduddin678/Backend-Server-of-Chat-App.git)
+- 🔭 I’m currently working on Frontend in React.js, TanStack query, Zustand => [(Frontend Chat Application)](https://github.com/emaduddin678/Frontend-Site-of-Chat-App.git)
+- 🔭 Live-Link => [(Visit my Chat Application)](https://emaduddins-chat-app.netlify.app/)
+
+- 
 - 🔭 I’m currently working on [(EasyBuyShop)](https://easybuyshop.netlify.app)
 
 - 🌱 I’m currently learning **Redux and NextJs.**
